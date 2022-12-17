@@ -1,0 +1,87 @@
+body{
+    position: relative;
+}
+.slider-content{
+    width:80%;
+    clear: both;
+    padding: 5px 50px;
+    margin:0 auto;
+   background: linear-gradient(180deg, #93ddff 0%, rgb(107 178 244 / 19%) 100%);
+}
+.slider-items{
+    width: 345px !important;
+    height: 493px;
+    background: white;
+    margin:10px;
+    color:aliceblue;
+    border-radius: 20px;
+    position: relative;
+    
+}
+/* =========================Made by Zaman Ador(search "Zaman Ador" on google)==================================== */
+.slider-items img{
+    width: 100%;
+    height: 300px;
+    
+}
+.arrow{
+    width:155px;
+    float:right;
+}
+.arrow img{
+    width:20%;
+}
+.arrow_prev{
+    margin-right:10px;
+}
+/* =========================Made by Zaman Ador(search "Zaman Ador" on google)==================================== */
+.date {
+    background-color: red;
+    position: absolute;
+    top: 55%;
+    right: 15px;
+    width: 51px;
+    height: 41px;
+    padding: 6px 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+.category {
+    margin-left: 15px;
+    font-size: 14px;
+    color: #F15C58;
+    font-weight: 500;
+    margin-bottom: -12px;
+}
+.title {
+    margin-left: 15px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #003A3C;
+    line-height: 28px;
+    margin-bottom: -10px;
+}
+.descrip {
+    margin-left: 15px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #576263;
+}
+/* =========================Made by Zaman Ador(search "Zaman Ador" on google)==================================== */
+.loadMore {
+    font-size: 16px;
+    line-height: 20px;
+    color: #F15C58;
+    text-decoration: none;
+    margin-left: 15px;
+    position: relative;
+}
+img.loadImg {
+    width: 28px;
+    height: 17px;
+    margin-left: 13px;
+    padding-top: -3px;
+    position: absolute;
+    top: 1px;
+    left: 67px;
+}
